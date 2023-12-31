@@ -1,0 +1,6 @@
+github.com/google/uuid v1.4.0 h1:MtMxsa51/r9yyhkyLsVeVt0B+BGQZzpQiTQ4eHZ8bc4=
+github.com/google/uuid v1.4.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/serg14159/storage v0.0.0-20231231183109-9e55401cf036 h1:a66pJdYsZ2JnqxqnKyELaIJ+Ns9gVwKuFMELWq5CIcU=
+github.com/serg14159/storage v0.0.0-20231231183109-9e55401cf036/go.mod h1:z1K99ivMdpmA4ZxyS1ngLOZqNH+P16QXRD46Y9BgFS8=
+github.com/serg14159/storage v0.0.1 h1:zmd6J1Fx025AcplCgc3dnTMC4oX+473au5m5T+HK0Oc=
+github.com/serg14159/storage v0.0.1/go.mod h1:z1K99ivMdpmA4ZxyS1ngLOZqNH+P16QXRD46Y9BgFS8=
